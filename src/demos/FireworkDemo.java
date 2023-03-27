@@ -5,6 +5,7 @@ import javax.swing.*;
 public class FireworkDemo {
 
     public static void main(String[] args) {
+        //test
         JFrame window = new JFrame();
         window.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         window.setResizable(false);
